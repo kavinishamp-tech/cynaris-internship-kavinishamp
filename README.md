@@ -23,3 +23,17 @@ and the tools configured during my internship at Cynaris.
 
 To maintain documentation of my development environment setup and
 internship-related learning activities.
+
+## Python Environment
+
+- Python version: 3.13.9
+- pip version: 25.3
+- Virtual environment support: Available
+
+### Verify Python
+
+```powershell
+python --version
+python -m pip --version
+python -m venv --help
+```
